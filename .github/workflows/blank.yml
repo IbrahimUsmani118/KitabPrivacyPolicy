@@ -1,0 +1,31 @@
+name: Deploy README to GitHub Pages
+
+on:
+  push:
+    branches:
+      - main  # deploy when pushing to main branch
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '18'
+
+      - name: Install markdown converter
+        run: npm install -g marked
+
+      - name: Convert README.md to index.html
+        run: marked README.md -o index.html
+
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./
+          force_orphan: true   # ensures first push works
