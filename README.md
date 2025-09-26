@@ -1,103 +1,97 @@
 # Kitab Privacy Policy
 
-**Last updated:** September 2025
+**Effective Date:** September 25, 2025  
+**Last Updated:** September 25, 2025
 
-Thank you for using Kitab. Your privacy matters. This Privacy Policy explains what we collect, how we use it, and the choices you have.
+## 1) Overview
+Kitab (“**Kitab**,” “**we**,” “**us**,” or “**our**”) is committed to protecting your privacy. This Privacy Policy explains what information we collect, how we use it, who we share it with, and the choices you have when using our mobile application (the “**App**”).
 
----
+By using Kitab, you agree to this Privacy Policy.
 
-## 1) Information We Collect
+## 2) Scope
+This Policy applies to the Kitab App and related customer support channels. It does not apply to third-party websites, apps, or services that we do not control.
 
-**Account Information.** Email, username, and profile details you provide.
+## 3) Information We Collect
 
-**Messages & Media.**
-- Direct messages and attachments you send.
-- Messages are encrypted in transit and at rest. Where supported, one-to-one messages use end-to-end encryption so only sender and recipient can read them.
+### a) Information you provide
+- **Account Data:** name, email, profile details.  
+- **User Content:** messages, photos, videos, text, notes, highlights, and other content you upload, send, or store in the App.  
+- **Support Communications:** messages you send to us (including metadata such as time and channel).
 
-**Duplicate-Image Detection Data.**
-- To stop spam, when you upload an image we compute a non-reversible fingerprint (perceptual hash) of the image.
-- The same image may be uploaded twice; a third attempt is blocked automatically.
-- We store the fingerprint and minimal counters needed to enforce this rule. We do not share these fingerprints with third parties.
+### b) Information collected automatically
+- **Usage Data:** app interactions, features used, session activity, in-app actions, crash reports, and diagnostics.  
+- **Device & Technical Data:** device model, operating system and version, language, time zone, app version, IP address, and identifiers assigned by your device or the App.  
+- **Log Data:** timestamps, performance metrics, and error logs.
 
-**Device & Usage Data.**
-- App/version, OS, crash logs, diagnostics, and aggregated usage (e.g., feature usage counts).
-- We do not use this data for cross-app tracking or advertising.
+### c) Information from your device (permissions)
+With your consent (per your device settings), the App may access:
+- **Camera & Photos/Media/Library:** to capture or select media you choose to share.  
+- **Microphone:** to record audio you choose to share.  
+- **Push Notifications:** to send updates and messages (you can manage this in device settings).
 
----
+We do **not** collect content from your device without your action or permission.
 
-## 2) How We Use Information
+## 4) How We Use Your Information
+We use information to:
+- **Provide the Service:** create and manage accounts, enable core functionality (e.g., content viewing, saving, and sharing), and ensure reliability.  
+- **Support & Safety:** respond to inquiries, troubleshoot, detect/prevent misuse, abuse, or security incidents.  
+- **Improve & Analyze:** monitor performance, perform analytics, and enhance features and usability.  
+- **Communicate:** send service-related notices (e.g., updates, security, changes to policies). Marketing messages are only sent where permitted by law and can be opted out of at any time.
 
-- Provide core messaging features and improve performance and reliability.
-- Detect and block duplicate images (anti-spam/abuse).
-- Troubleshoot, support, and secure the service (fraud/abuse detection, rate-limiting).
-- Communicate service notices (e.g., changes to terms, privacy, or incidents).
+### Legal bases for processing (EEA/UK only)
+Where applicable, we rely on: **contract necessity** (to provide the App and support), **legitimate interests** (security, fraud prevention, feature improvement), and **consent** (for optional features like push notifications or media access).
 
----
+## 5) Data Sharing and Disclosure
+We do **not** sell your personal information. We also do **not** “share” it for cross-context behavioral advertising.
 
-## 3) Permissions We Request (and Why)
+We may disclose information:
+- **Service Providers:** trusted vendors who host, store, analyze, or support the App under contracts requiring confidentiality and appropriate safeguards.  
+- **Legal & Safety:** if required by law, subpoena, or to protect rights, safety, and the integrity of our Service and users.  
+- **Business Transfers:** if we undergo a merger, acquisition, reorganization, or asset sale, your information may be transferred consistent with this Policy and applicable law.
 
-- **Camera** — We use your camera so you can take and upload photos (e.g., a profile picture or a photo to share in chat).
-- **Photo Library** — We use your photo library so you can choose images to share in chat or set a profile picture.
-- **Photo Library Add** (if you offer “Save to Photos”) — We save photos to your library only when you ask us to download or export media.
-- **Notifications (optional)** — To alert you about new messages. You can change your decision any time in iOS Settings.
+## 6) Data Security
+We implement appropriate technical and organizational measures designed to protect personal data (e.g., access controls, encryption in transit, and protections against common threats). However, no method of transmission or storage is fully secure.
 
-We request each permission only when needed, and you can change or revoke permissions in your device settings.
+## 7) Data Retention
+We retain personal information for as long as needed to provide the Service, comply with legal obligations, resolve disputes, and enforce our agreements. Retention periods vary by data type and context (e.g., account data is kept while your account is active; diagnostic logs are kept for a limited period). When no longer needed, we take steps to delete or de-identify data.
 
----
+## 8) Your Choices & Rights
 
-## 4) Data Sharing
+### In-App Controls
+- **Account & Profile:** view and update certain information in the App.  
+- **Notifications & Permissions:** manage push notifications, camera, photos, and microphone permissions via device settings.
 
-We do not sell, rent, or trade your data. We share data only:
+### Privacy Rights (depending on your location)
+You may have rights to **access** and **portability**, **correct**, **delete**, **restrict** or **object** to certain processing, and **withdraw consent** where processing is based on consent.  
+We will verify your request and respond within the timeframe required by applicable law. You may authorize an agent to submit requests where permitted.
 
-- With service providers who host, store, or process data on our instructions and under contract (e.g., cloud infrastructure, crash analytics).
-- For legal compliance when required by law or valid legal process.
-- For security to detect, prevent, or address fraud, abuse, or technical issues.
+**How to exercise:** see **Contact Us & Requests** below or use in-app controls where available.
 
----
+## 9) Account Deletion (Self-Service)
+Users may permanently delete their account at any time directly from the **Profile** section within the App. Deletion will permanently remove the user’s account, messages, and media. Once deleted, the account cannot be recovered, and the user will be signed out immediately.  
+If you choose to delete your account, all data associated with your account will be permanently removed. You may re-register for a new account using the same email address, but none of your previous account data will be available.
 
-## 5) Data Security
+## 10) International Transfers
+If we transfer your information across borders, we will use appropriate safeguards (e.g., contractual protections consistent with applicable law) to protect your information.
 
-We use encryption, access controls, and industry-standard safeguards. No method is 100% secure, but we continuously improve our protections.
+## 11) Children’s Privacy
+Kitab is not directed to children under 13, and we do not knowingly collect personal information from children under 13. If you believe a child has provided personal information, contact us and we will take appropriate steps to delete it.
 
----
+## 12) Third-Party Services & Links
+The App may link to or integrate third-party sites, SDKs, or services. Their privacy practices are governed by their own policies. We encourage you to review them.
 
-## 6) Data Retention
+## 13) Do Not Track & Opt-Out Signals
+Your browser or device may offer “Do Not Track” or similar signals. We currently do not respond to these signals. Where legally required (e.g., certain U.S. states), we will honor applicable opt-out mechanisms provided by law.
 
-- **Messages & Media:** retained to provide the service (e.g., your chat history) until you delete them or delete your account.
-- **Duplicate-Image Fingerprints:** retained as long as necessary to enforce the duplicate-blocking rule and protect the service, and deleted when no longer needed or upon account deletion.
-- **Diagnostics:** retained for a limited period to troubleshoot and improve stability.
+## 14) Changes to This Policy
+We may update this Policy from time to time. We will post the updated version with a new “Last Updated” date. Material changes will be communicated as required by law.
 
----
+## 15) Contact Us & Requests
+For privacy questions or to exercise your rights, contact:
 
-## 7) Your Rights & Choices
+- **Joel Minaya** — [jminaya20@gmail.com](mailto:jminaya20@gmail.com)  
+- **Ibrahim Usmani** — [onlyibrahim13@gmail.com](mailto:onlyibrahim13@gmail.com)
 
-- **Delete Account & Data:** Use **Settings → Account → Delete Account** (if available) or contact us (see below).
-- **Control Permissions:** Manage Camera/Photos/Notifications in your device settings.
-- **Manage Content:** You can delete your own messages and media within the app.
+When making a request, please include: (i) what right you’re exercising, (ii) the email associated with your account, and (iii) any information needed for verification.
 
-If you are in a region with specific privacy rights (e.g., GDPR/CCPA), you may have rights to access, correct, or delete your data, or object/restrict certain processing. Contact us to exercise these rights.
-
----
-
-## 8) Children’s Privacy
-
-Kitab is not directed to children under 13. If we learn we collected personal information from a child under 13, we will delete it.
-
----
-
-## 9) International Transfers
-
-We may process and store data in the United States (and/or other regions where our cloud providers operate). We use approved safeguards for international transfers where required.
-
----
-
-## 10) Changes to This Policy
-
-We may update this Policy periodically. We’ll update the “Last updated” date and, when material changes occur, provide additional notice in-app or by email.
-
----
-
-## 11) Contact Us
-
-- **Ibrahim Usmani** — 📩 onlyibrahim13@gmail.com  
-- **Joel Minaya** — 📩 jminaya20@gmail.com
+**Appeals (U.S. state laws where applicable):** If we deny your request, you may appeal by replying to our response email with “Privacy Request Appeal.” We will inform you of the outcome and your options to contact a regulator where applicable.
